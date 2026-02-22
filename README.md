@@ -31,8 +31,7 @@ Here are some of my data analysis projects i am currently working on:
 ## 🎓 Education
 - MSc Nuclear Physics
 - Physics Graduate
-- Data Analytics Training at Hiit Training Institute and TechCrush 
-
+- Data Analytics Training at Hiit Training Institute and TechCrush Bootcamp (Cohort 6)
 
 ## 📫 Contact Me
 - LinkedIn: http://linkedin.com/in/kareemah-abdulhamid-3253b6204
