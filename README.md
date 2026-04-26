@@ -17,7 +17,7 @@
 Here are some of my data analysis projects i am currently working on:
 
 - Excel Sales Analysis Project (coming soon)
-- Sustainable energy Dashboard Project (coming soon)
+- Climate and Environmental Sustainability Analysis Project (coming soon)
 - Capstone Project (coming soon)
 
 
